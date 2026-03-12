@@ -12,7 +12,7 @@ This is where I'll document my work, reflections, and growth throughout the cour
 
 # About Me
 
-Hi, I'm Sheila — a Master's student in Information Technology at Carnegie Mellon University. My background spans software development, data science, and research, and I've had the opportunity to work across a range of domains including public health, financial systems, and web platform development.
+Hi, I'm Sheila — a Master's student in Information Technology at Carnegie Mellon University. My background spans software development, data science, and research, and I've had the opportunity to work across a range of domains including public health, financial systems, and GIS web platform development.
 
 I'm drawn to problems where data can drive meaningful decisions, and I care deeply about making technical work accessible — not just to other engineers, but to the policymakers, practitioners, and communities who ultimately act on it. That gap between insight and understanding is something I think about a lot, which is exactly what brought me to this course.
 
