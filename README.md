@@ -5,9 +5,8 @@
 Welcome to my public portfolio for **Telling Stories with Data** at Carnegie Mellon University.  
 This is where I will document my work, reflections, and growth throughout the course.
 
-- Web page URL: https://shishi5089.github.io/
-- This repository: https://github.com/shishi5089/tswd-portfolio-templates/
-
+- Web page URL: https://shishi5089.github.io/sheila-data-portfolio/
+- This repository: https://github.com/shishi5089/sheila-data-portfolio/
 ---
 
 # About Me
