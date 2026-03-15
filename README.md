@@ -1,13 +1,19 @@
 | [home page](./) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
+
 # Sheila Wafula – Data Storytelling Portfolio
 
 Welcome to my public portfolio for **Telling Stories with Data** at Carnegie Mellon University.  
-This is where I will document my work, reflections, and growth throughout the course.
+This space documents my work, reflections, and growth throughout the course.
 
-- Web page URL: [https://shishi5089.github.io/sheila-data-portfolio/](https://shishi5089.github.io/sheila-data-portfolio/)  
-- This repository: [https://github.com/shishi5089/sheila-data-portfolio/](https://github.com/shishi5089/sheila-data-portfolio/) 
+**Web page:**  
+🔗 https://shishi5089.github.io/sheila-data-portfolio/
+
+**Repository:**  
+🔗 https://github.com/shishi5089/sheila-data-portfolio/
+
 ---
+
 
 # About Me
 
