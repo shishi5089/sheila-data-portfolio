@@ -1,4 +1,4 @@
-| [home page](./) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](./) | [data viz examples](dataviz-examples.html) | [critique by design](critique-by-design.html) | [final project I](final-project-part-one.html) | [final project II](final-project-part-two.html) | [final project III](final-project-part-three.html) |
 
 
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
