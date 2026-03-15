@@ -1,4 +1,4 @@
-| [home page](./) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](./) | [data viz examples](dataviz-examples.html) | [critique by design](critique-by-design.html) | [final project I](final-project-part-one.html) | [final project II](final-project-part-two.html) | [final project III](final-project-part-three.html) |
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
