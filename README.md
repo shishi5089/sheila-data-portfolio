@@ -45,16 +45,16 @@ portfolio will be the record of that journey.
 # Portfolio
 
 ## Data Viz Examples
-[View examples](dataviz-examples)
+[View examples](dataviz-examples.html)
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
 ## Assignment 3 & 4: [Critique by Design](critique-by-design)
 
 ## Final Project
-[Part I](final-project-part-one)  
-[Part II](final-project-part-two)  
-[Part III](final-project-part-three)
+[Part I](final-project-part-one.html)  
+[Part II](final-project-part-two.html)  
+[Part III](final-project-part-three.html)
 
 ---
 
