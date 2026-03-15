@@ -7,10 +7,10 @@ Welcome to my public portfolio for **Telling Stories with Data** at Carnegie Mel
 This space documents my work, reflections, and growth throughout the course.
 
 **Web page:**  
-🔗 https://shishi5089.github.io/sheila-data-portfolio/
+🔗 [https://shishi5089.github.io/sheila-data-portfolio/](https://shishi5089.github.io/sheila-data-portfolio/)
 
 **Repository:**  
-🔗 https://github.com/shishi5089/sheila-data-portfolio/
+🔗 [https://github.com/shishi5089/sheila-data-portfolio/](https://github.com/shishi5089/sheila-data-portfolio/)
 
 ---
 
