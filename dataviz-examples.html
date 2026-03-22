@@ -52,5 +52,52 @@ This visualization shows government debt as a percentage of GDP across OECD coun
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+<hr>
+
+<h2>Debt Trends Over Time</h2>
+
+<p>
+For this visualization, I focused on showing how government debt changed over time, especially around 2020 where many countries experienced a noticeable increase. What stood out to me during the exploratory phase was that this pattern appeared across multiple countries, suggesting a broader shift rather than something isolated. At the same time, I also noticed that some countries, like Japan and Estonia, remained consistently at opposite ends of the spectrum, with Japan maintaining very high debt levels and Estonia staying relatively low.
+</p>
+
+<p>
+To make this pattern clearer, I chose to work with a subset of countries instead of the full dataset. Including all countries made the visualization too cluttered and difficult to interpret, so narrowing it down helped me focus on the main story. I used a line chart because it allowed me to clearly show how debt levels evolved over time, making the increase around 2020 more visible. I also used color selectively to highlight key countries while keeping others more muted, which helped guide attention without overwhelming the viewer.
+</p>
+
+<p>
+Compared to the heatmap from Part 2, this visualization is more effective for showing change over time. While the heatmap provided a good overview of debt levels across countries, it was harder to follow trends across years. The line chart makes it easier to see how values shift over time and better emphasizes the pattern I was trying to highlight.
+</p>
+
+<p><strong>Source:</strong> OECD Data – General government debt (% of GDP)</p>
+
+<!-- TABLEAU EMBED (replace with your embed code, NOT the link) -->
+<div class='tableauPlaceholder' id='viz2' style='position: relative'>
+  <noscript>
+    <a href='#'>
+      <img alt='Debt Trends Over Time' 
+      src='https://public.tableau.com/static/images/oe/oecd_debt_highlight_table/DebtTrendsOverTime/1.png' 
+      style='border: none' />
+    </a>
+  </noscript>
+
+  <object class='tableauViz' style='display:none;'>
+    <param name='host_url' value='https://public.tableau.com/' />
+    <param name='name' value='oecd_debt_highlight_table/DebtTrendsOverTime' />
+    <param name='tabs' value='no' />
+    <param name='toolbar' value='yes' />
+  </object>
+</div>
+
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz2');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
+
 </body>
 </html>
