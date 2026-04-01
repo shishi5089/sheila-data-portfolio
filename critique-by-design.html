@@ -33,11 +33,18 @@ I selected the <strong>Commercial Meat Production in Germany</strong> chart from
 <p>
 <strong>Original visualization:</strong> <a href="https://data.world/makeovermonday/2023w10" target="_blank">MakeoverMonday 2023 Week 10</a>
 </p>
-<p><img src="sketch4.jpeg" alt="Snapshot: 2023/W10 - Meat Production in Germany" style="max-width:600px; width:100%;" /></p>
+<p><img src="original-viz.png" alt="Original visualization: Commercial Meat Production in Germany, MakeoverMonday 2023 Week 10" style="max-width:600px; width:100%;" /></p>
 
-<p>
-I picked this one because it confused me straight away and I wanted to understand why. The chart shows three lines for Beef, Poultry and Pork over time, but the y-axis is on the right side instead of the left, the notation "2000=100" is never explained, and the most important finding, an 8.1% drop in production by 2022, is completely invisible on the chart. The description mentions it but the chart itself does not show it at all. For farmers, industry suppliers and government policymakers who need clear information they can act on, this chart does not serve them well.
-</p>
+<p>I picked this one because it confused me straight away and I wanted to understand why. Here is what stood out:</p>
+
+<ul>
+  <li>The y-axis is on the right side instead of the left, which is immediately disorienting</li>
+  <li>The notation "<em>2000=100</em>" is never explained anywhere on the chart</li>
+  <li>The most important finding, an <strong>8.1% drop in production by 2022</strong>, is completely invisible on the chart itself</li>
+  <li>The description mentions the drop but the chart does not show it at all</li>
+</ul>
+
+<p>For farmers, industry suppliers and government policymakers who need clear information they can act on, this chart does not serve them well.</p>
 
 <p>
 What also drew me to it was that the data underneath is actually simple. Three meat types, going up or down over time. The problem was not the data, it was almost every design decision made around it. That felt like a strong opportunity to redesign.
@@ -48,34 +55,34 @@ What also drew me to it was that the data underneath is actually simple. Three m
 <h2>Step Two: The Critique</h2>
 
 <p>
-I used Stephen Few's Data Visualization Effectiveness Profile to critique the original across seven categories. I submitted my full responses via the course Google Form. Here is a summary of what I found.
+I used <strong>Stephen Few's Data Visualization Effectiveness Profile</strong> to critique the original across seven categories. I submitted my full responses via the course Google Form. Here is a summary of what I found.
 </p>
 
-<p><strong>Usefulness — 4/10</strong><br>
+<p><strong>Usefulness - 4/10</strong><br>
 The chart would not be very useful to its intended audience. The 2000=100 index is not explained anywhere, so someone reading it would likely be confused about what the numbers mean. Are they tonnes, percentages, something else? The most important story, the 8.1% drop in 2022, is not visible or emphasized at all. For an audience that needs clear information, this chart falls short.
 </p>
 
-<p><strong>Completeness — 5/10</strong><br>
+<p><strong>Completeness - 5/10</strong><br>
 Key information is missing. The 2000=100 notation is never explained. There are no units stated anywhere. The 8.1% drop is mentioned in the description but does not appear on the chart itself. There is also no context for why production changed over the years.
 </p>
 
-<p><strong>Perceptibility — 4/10</strong><br>
+<p><strong>Perceptibility - 4/10</strong><br>
 The chart requires a lot of effort to read. The y-axis on the right side is disorienting because most readers look left first. The legend is small and easy to miss. Without gridlines it is hard to track where a line sits at any given year. The chart makes you work too hard for information that should be immediately visible.
 </p>
 
-<p><strong>Truthfulness — 6/10</strong><br>
+<p><strong>Truthfulness - 6/10</strong><br>
 The data is accurately sourced so there is no deliberate misleading happening here. But the 2000=100 index hides actual production volumes, and the 8.1% drop being left out of the chart makes the most important finding feel buried rather than communicated. The chart is not lying but it is not being fully transparent either.
 </p>
 
-<p><strong>Intuitiveness — 2/10</strong><br>
+<p><strong>Intuitiveness - 2/10</strong><br>
 The data itself is simple and a line chart is a familiar format. But almost every labeling and placement decision breaks normal reading habits. The 2000=100 notation needs prior knowledge to understand. A first time viewer would not know what story to take away. The irony is the underlying data is not complex at all, the design choices are what make it feel hard.
 </p>
 
-<p><strong>Aesthetics — 4/10</strong><br>
+<p><strong>Aesthetics - 4/10</strong><br>
 The chart is neutral looking, not offensive but not helpful either. The white background is clean. But the y-axis placement creates visual imbalance, the legend feels like an afterthought, and there is no visual hierarchy to guide the eye toward what matters most.
 </p>
 
-<p><strong>Engagement — 5/10</strong><br>
+<p><strong>Engagement - 5/10</strong><br>
 The confusion actually draws you in at first because you notice something feels off and want to figure it out. The topic is genuinely interesting too. But the chart does not capitalize on that at all. There is no hook, no highlighted story, nothing that makes you feel like this matters. Confusion is not the same as engagement.
 </p>
 
@@ -88,19 +95,18 @@ Few's method was more useful than I expected. It forced me to be specific instea
 <h2>Step Three: Sketch a Solution</h2>
 
 <p>
-Before opening Tableau I sketched two versions on paper. Following what Berinato describes in Good Charts, I talked through what I was trying to say first, then sketched. My declared story going in was: all three meat categories fell after 2020, with a total drop of 8.1% by 2022.
+Before opening Tableau I sketched two versions on paper. Following what Berinato describes in Good Charts, I talked through what I was trying to say first, then sketched. My declared story going in was: <strong>all three meat categories fell after 2020, with a total drop of 8.1% by 2022</strong>.
 </p>
 
 <p><strong>Sketch 1: All three lines shown equally</strong><br>
 My first sketch showed all three lines in distinct colors with a shaded gray region between 2020 and 2022 to highlight the drop period. The title declared the story directly. An annotation inside the shaded region called out the 8.1% drop. The y-axis was moved to the left and units were labeled clearly.
 </p>
-
+<p><img src="sketch4.jpeg" alt="Sketch 1: All three lines" style="max-width:600px; width:100%;" /></p>
+  
 <p><strong>Sketch 2: Poultry as the main story</strong><br>
 My second sketch focused the story. Poultry was drawn in bold red as the dominant line. Beef and Pork were drawn in light gray as background context. This applied the idea of declaring one clear story rather than leaving the reader to find it themselves.
 </p>
-
-<p><img src="sketch4.jpeg" alt="Sketch 1: All three lines" style="max-width:600px; width:100%;" /></p>
-<p><img src="sketch_5.jpeg" alt="Sketch 2: Poultry as hero line" style="max-width:600px; width:100%;" /></p>
+<p><img src="sketch5.jpeg" alt="Sketch 2: Poultry as hero line" style="max-width:600px; width:100%;" /></p>
 
 <hr>
 
@@ -120,9 +126,9 @@ I shared both sketches with three peers during an in-class session. I showed the
 
 <p><strong>Participants:</strong></p>
 <ul>
-  <li>Student, mid 20s</li>
-  <li>Student, mid 20s</li>
-  <li>Student, mid 20s</li>
+  <li>Student, female,  mid 20s</li>
+  <li>Student, female, mid 30s</li>
+  <li>Student, female, mid 40s</li>
 </ul>
 
 <table border="1" cellpadding="8" cellspacing="0">
@@ -153,15 +159,15 @@ I shared both sketches with three peers during an in-class session. I showed the
 <p><strong>Synthesis:</strong></p>
 
 <p>
-Two patterns came through clearly. All three participants preferred Sketch 2 because the poultry focused approach made the story immediately obvious. They also noted that having Beef and Pork in the same gray made it hard to tell which line was which. The fix was not to give them different colors but to label them directly at the end of each line, keeping them gray and non-distracting but still identifiable.
+Two patterns came through clearly. All three participants preferred <strong>Sketch 2</strong> because the poultry focused approach made the story immediately obvious. They also noted that having Beef and Pork in the same gray made it hard to tell which line was which. The fix was not to give them different colors but to label them directly at the end of each line, keeping them gray and non-distracting but still identifiable.
 </p>
 
 <p>
-The most useful piece of feedback was that the rise in production before 2020 was drawing more attention than the drop after it. That meant my declared story was getting buried behind earlier growth. Starting the chart at 2012 instead of 2000 was the fix that made most sense.
+The <strong>most useful</strong> piece of feedback was that the rise in production before 2020 was drawing more attention than the drop after it. That meant my declared story was getting buried behind earlier growth. Starting the chart at 2012 instead of 2000 was the fix that made most sense.
 </p>
 
 <p>
-I also watched the MakeoverMonday critique video for Week 10 2023 by Andy Kriebel after doing my own critique and sketches. He flagged the same issues I did: the flat ratio of the original chart flattened out differences between lines, and the y-axis needed to move to the left. His redesign kept the line chart format which confirmed I was on the right track. My version went further by adding a shaded region and annotation to make the drop period impossible to miss.
+I also watched the <strong>MakeoverMonday critique video</strong> for Week 10 2023 by Andy Kriebel after doing my own critique and sketches. He flagged the same issues I did: the flat ratio of the original chart flattened out differences between lines, and the y-axis needed to move to the left. His redesign kept the line chart format which confirmed I was on the right track. My version went further by adding a shaded region and annotation to make the drop period impossible to miss.
 </p>
 
 <p><strong>Changes made heading into the final build:</strong></p>
@@ -178,7 +184,7 @@ I also watched the MakeoverMonday critique video for Week 10 2023 by Andy Kriebe
 <h2>Step Five: Build the Solution</h2>
 
 <p>
-I built the final redesign in Tableau Public. The changes from the original are direct responses to what I found in the critique and what peers flagged in testing.
+I built the final redesign in <strong>Tableau Public</strong>. The changes from the original are direct responses to what I found in the critique and what peers flagged in testing.
 </p>
 
 <ul>
@@ -194,7 +200,7 @@ I built the final redesign in Tableau Public. The changes from the original are 
 </ul>
 
 <p>
-The redesign tells one clear story: all categories of German commercial meat production fell after 2020, and the chart makes that impossible to miss.
+The redesign tells one clear story: <strong>all categories of German commercial meat production fell after 2020</strong>, and the chart makes that impossible to miss.
 </p>
 
 <div class='tableauPlaceholder' id='viz_meat_germany' style='position: relative'>
