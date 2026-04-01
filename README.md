@@ -49,7 +49,7 @@ portfolio will be the record of that journey.
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 
-## Assignment 3 & 4: [Critique by Design](critique-by-design)
+## Assignment 3 & 4: [Critique by Design](critique-by-design.html)
 
 ## Final Project
 [Part I](final-project-part-one.html)  
