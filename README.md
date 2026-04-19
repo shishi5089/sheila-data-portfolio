@@ -46,7 +46,7 @@ portfolio will be the record of that journey.
 ## Data Viz Examples
 [View examples](dataviz-examples.html)
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt.html)
+## Assignment: [Visualizing Government Debt](dataviz-examples.html)
 
 ## Assignment 3 & 4: [Critique by Design](critique-by-design.html)
 
