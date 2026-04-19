@@ -58,4 +58,4 @@ portfolio will be the record of that journey.
 ---
 
 ## AI Acknowledgements
-*Claude (Anthropic) was used to help structure and draft content on this page and across assignments in this portfolio, in line with course guidelines. All work, observations and decisions are my own.
+*Claude (Anthropic) was used to help structure and draft content on this page and across assignments in this portfolio, in line with course guidelines. All work, observations and decisions are my own.*
