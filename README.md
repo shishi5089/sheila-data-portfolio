@@ -6,13 +6,12 @@ Welcome to my public portfolio for **Telling Stories with Data** at Carnegie Mel
 This space documents my work, reflections, and growth throughout the course.
 
 **Web page:**  
-🔗 [https://shishi5089.github.io/sheila-data-portfolio/](https://shishi5089.github.io/sheila-data-portfolio/)
+[https://shishi5089.github.io/sheila-data-portfolio/](https://shishi5089.github.io/sheila-data-portfolio/)
 
 **Repository:**  
-🔗 [https://github.com/shishi5089/sheila-data-portfolio/](https://github.com/shishi5089/sheila-data-portfolio/)
+[https://github.com/shishi5089/sheila-data-portfolio/](https://github.com/shishi5089/sheila-data-portfolio/)
 
 ---
-
 
 # About Me
 
@@ -47,16 +46,16 @@ portfolio will be the record of that journey.
 ## Data Viz Examples
 [View examples](dataviz-examples.html)
 
-## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt.html)
 
 ## Assignment 3 & 4: [Critique by Design](critique-by-design.html)
 
 ## Final Project
 [Part I](final-project-part-one.html)  
 [Part II](final-project-part-two.html)  
-[Part III](final-project-part-three.html)
+[Part III](final-project-part-three.html) *(in progress)*
 
 ---
 
 ## AI Acknowledgements
-*I used Claude (Anthropic) to help structure and draft the content on this page, in line with course guidelines.*
+*Claude (Anthropic) was used to help structure and draft content on this page and across assignments in this portfolio, in line with course guidelines. All work, observations and decisions are my own.
