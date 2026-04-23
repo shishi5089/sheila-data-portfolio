@@ -17,7 +17,7 @@ This space documents my work, reflections, and growth throughout the course.
 
 Hi, I am Sheila — a Master's student in Information Technology at Carnegie Mellon University. My background spans software development, data science, and research, and I have had the opportunity to work across a range of domains including public health, financial systems, and GIS web platform development.
 
-I am drawn to problems where data can drive meaningful decisions, and I care deeply about making technical work accessible — not just to other engineers, but to the policymakers, practitioners, and communities who ultimately act on it. That gap between insight and understanding is something I think about a lot, which is exactly what brought me to this course.
+I am drawn to problems where data can drive meaningful decisions, and I care deeply about making technical work accessible - not just to other engineers, but to the policymakers, practitioners, and communities who ultimately act on it. That gap between insight and understanding is something I think about a lot, which is exactly what brought me to this course.
 
 Outside of work and school, I am passionate about community engagement, mentorship, and the intersection of technology and equity.
 
@@ -33,7 +33,7 @@ Through this course I learned to:
 - Make design decisions grounded in clarity and visual integrity
 - Tell a coherent story with data, not just display it
 
-The final project — a data story about food and identity as an African student at CMU — brought all of that together in one piece. This portfolio is the record of that journey.
+The final project - **a data story about food and identity as an African student at CMU** - brought all of that together in one piece. This portfolio is the record of that journey.
 
 Specifically, I hope to:
 
@@ -64,4 +64,4 @@ portfolio will be the record of that journey.
 ---
 
 ## AI Acknowledgements
-*Claude (Anthropic) was used to help structure and draft content on this page and across assignments in this portfolio, in line with course guidelines. All work, observations and decisions are my own.*
+***Claude (Anthropic)** was used to help structure and draft content on this page and across assignments in this portfolio, in line with course guidelines. All work, observations and decisions are my own.*
