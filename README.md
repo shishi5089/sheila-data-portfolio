@@ -23,11 +23,17 @@ Outside of work and school, I am passionate about community engagement, mentorsh
 
 ---
 
-# What I Hope to Learn
+# What I Learned
 
-I come into this course with a solid technical foundation in building models, processing large 
-datasets, and developing data-driven applications. What I want to develop here is the other half 
-of that skillset: the ability to communicate findings clearly, compellingly, and honestly.
+I came into this course with a solid technical foundation in building models, processing large datasets, and developing data-driven applications. What I wanted to develop was the other half of that skillset - the ability to communicate findings clearly, compellingly, and honestly.
+
+Through this course I learned to:
+- Choose the right visualization for the right message
+- Critique data visualizations - identifying what works, what misleads, and why
+- Make design decisions grounded in clarity and visual integrity
+- Tell a coherent story with data, not just display it
+
+The final project — a data story about food and identity as an African student at CMU — brought all of that together in one piece. This portfolio is the record of that journey.
 
 Specifically, I hope to:
 
@@ -53,7 +59,7 @@ portfolio will be the record of that journey.
 ## Final Project
 [Part I](final-project-part-one.html)  
 [Part II](final-project-part-two.html)  
-[Part III](final-project-part-three.html) *(in progress)*
+[Part III](final-project-part-three.html)
 
 ---
 
