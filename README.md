@@ -35,16 +35,6 @@ Through this course I learned to:
 
 The final project - **a data story about food and identity as an African student at CMU** - brought all of that together in one piece. This portfolio is the record of that journey.
 
-Specifically, I hope to:
-
-- Develop a principled approach to choosing the right visualization for the right message
-- Learn to critique data visualizations, identifying what works, what misleads, and why
-- Build habits around design clarity and visual integrity that I can carry into research and professional work
-- Create a portfolio that demonstrates not just technical ability, but the ability to tell a coherent story with data
-
-By the end of this course, I want to move fluidly between analysis and communication, and this 
-portfolio will be the record of that journey.
-
 ---
 
 # Portfolio
